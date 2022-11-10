@@ -1,0 +1,13 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "stdint.h": "c",
+        "zhou_config.h": "c",
+        "lq_imageprocess.h": "c",
+        "math.h": "c",
+        "lq_gpio_led.h": "c",
+        "lq_gpio_key.h": "c",
+        "lq_camera.h": "c",
+        "guaidian.h": "c"
+    }
+}
